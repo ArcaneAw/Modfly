@@ -182,6 +182,7 @@ function Fly()
                 end;
                 wait(0.5)
                 fly = false;
+                play(2892218731, true, true)
             end;
 		end);
 	end))
@@ -204,3 +205,4 @@ function Fly()
 		end)
 	end
 end
+Fly()
