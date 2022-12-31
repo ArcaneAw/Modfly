@@ -205,4 +205,3 @@ function Fly()
 		end)
 	end
 end
-Fly()
